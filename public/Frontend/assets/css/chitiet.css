@@ -1,0 +1,114 @@
+#noidung{
+  padding-top: 8em;
+}
+.title > a {
+  
+  text-decoration: none;
+  color: #5c5c5a;
+}
+.title {
+  font-size: 25px;
+  color: #5c5c5a;
+}
+
+#chitiet > h1 {
+  font-size: 30px;
+}
+.cart-price {
+  margin: 0;
+  color: #000;
+}
+#chitiet > .cart {
+  display: flex;
+  margin: 2em 0;
+}
+.cart > button {
+  margin-left: 3em;
+  border: 1px solid #bbbbba;
+  color: #fff;
+  background-color: #000;
+  font-size: 20px;
+  padding: 0.5em 2em;
+  width: auto;
+}
+.social-links a {
+  color: #bbbbba;
+  margin-right: 0.3em;
+  font-size: 1.5em;
+  padding: 0.1em 0.35em;
+  border: 2px solid #bbbbba;
+  float: left;
+  border-radius: 40px;
+}
+#photo > img {
+  width: 100%;
+}
+#info > p {
+  font-size: 25px;
+  margin-top: 2em;
+}
+.thongtin {
+  height: 250px;
+  margin: 0 2em;
+}
+.thongtin tr {
+  border-bottom: 1px solid #bbbbba;
+}
+#info .thongtin {
+  width: 100%;
+}
+
+element.style {
+}
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+user agent stylesheet
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.lydo {
+  list-style: none;
+  font-family: "Quicksand", sans-serif;
+  color: #494949;
+  padding-left: 2em;
+}
+#chitiet>p{
+  font-size: 16px;
+  font-weight: 300;
+}
+#photo{
+  margin-top: 2em;
+}
+#chitiet{
+  margin-top: 4em;
+}
+.lydo li {
+  display: list-item;
+  text-align: -webkit-match-parent;
+  margin-bottom: 0.6em;
+}
+.is-divider {
+  height: 3px;
+  display: block;
+  background-color: rgba(0,0,0,.1);
+  margin: 2em 0 1em;
+  width: 100%;
+  max-width: 30px;
+}
+.small, small {
+  font-size: .875em;
+}
